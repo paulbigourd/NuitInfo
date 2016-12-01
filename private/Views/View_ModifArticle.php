@@ -6,7 +6,7 @@
  * Time: 21:59
  * Utilise le Controleur "Modification Article"
  */
-<form method="POST" action="../Controlers/ControllerModifArticle">
+<form method="POST" action="../Controlers/ControllerModifArticle.php">
 <?php
 if($val_button==false){
     echo"<select name=\"nom\" size=\"1\">";
