@@ -1,7 +1,7 @@
 <?php
-	include('cdcc');
+	include('private/Models/MOD_retArt');
 	
-	$tab = getRecent();
+	$tab = retArticles();
 	
-	require('../Views/view_Accueil');
+	require('private/Views/view_Accueil');
 ?>
