@@ -1,5 +1,5 @@
 <?php
-$db=new PDO("mysql:host=localhost;port=3306;dbname=nuit_info","root","iuts");
+$db=new PDO("mysql:host=localhost;port=3306;dbname=nuit_info","root","iut");
 $db->getLogin (PDO::ERRMODE_EXCEPTION);
 function getLogin()
 {
