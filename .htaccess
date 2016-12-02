@@ -1,2 +1,2 @@
-ErrorDocument 404 ./private/Views/erreurs/erreur_404/index.html
+ErrorDocument 404 /private/Views/erreurs/erreur_404/index.html
 
