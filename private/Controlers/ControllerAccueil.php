@@ -3,5 +3,5 @@
 	
 	$tab = getRecent();
 	
-	require('../Views/views_Accueil');
+	require('../Views/view_Accueil');
 ?>
