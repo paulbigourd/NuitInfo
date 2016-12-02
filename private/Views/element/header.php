@@ -1,4 +1,5 @@
 <html>
+<link rel="stylesheet" href="./private/Views/element/style.css" />
 <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
