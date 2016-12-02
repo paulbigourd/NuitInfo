@@ -41,6 +41,7 @@ Breizh-info a pu ainsi prendre connaissance d’un  compte rendu – en date d�
 		
 		<?php include('./private/Views/element/mapFr.php');?>
 		
+		<img src="./private/Views/element/poulpe.png" alt="POULPEEEEEEE" />
 	</body>
 
 </html>
