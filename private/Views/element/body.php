@@ -39,7 +39,7 @@ Breizh-info a pu ainsi prendre connaissance d’un  compte rendu – en date d�
           </div>  
         </div>
 		
-		<?php include('/private/Views/element/mapFr.php');?>
+		<?php include('./private/Views/element/mapFr.php');?>
 		
 	</body>
 
