@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html> 
     <head lang="fr"> <! - -utile pour référencement du site, non indispensable - ->
+		<link rel="icon" href="./private/Views/element/poulpefinish.ico" />
         <title> MovImigration </title>
         <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
