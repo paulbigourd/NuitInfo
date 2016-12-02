@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="/private/Views/erreurs/erreur_404/404.css" />
+		<link rel="stylesheet" type="text/css" href="./private/Views/erreurs/erreur_404/404.css" />
 	</head>
 	
 	<header>
@@ -11,6 +11,6 @@
 	
 	<body>
 		<p>  Notre poulpe soyeux t'invite à quitter notre page </p>
-		<center><img src="/private/Views/erreurs/erreur_404/poulpe.png" alt="Photo de montagne" height="40%" width="40%" /></center>
+		<center><img src="./private/Views/erreurs/erreur_404/poulpe.png" alt="Photo de montagne" height="40%" width="40%" /></center>
 	</body>
 </html>
