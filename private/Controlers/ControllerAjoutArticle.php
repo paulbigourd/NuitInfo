@@ -3,9 +3,9 @@
 	
 	if(isset($_POST['valider']))
 		{	
-			$_POST['titre'] = htmlspecialchars($_POST['titre']);
-			$_POST['contenue'] = htmlspecialchars($_POST['contenue']);
-			$_POST['urlimage'] = htmlspecialchars($_POST['urlimage']);
+			$_POST['title'] = htmlspecialchars($_POST['title']);
+			$_POST['body'] = htmlspecialchars($_POST['body']);
+			$_POST['img'] = htmlspecialchars($_POST['img']);
 			
             
 				setArticle($_POST['titre'],$_POST['contenue']);
