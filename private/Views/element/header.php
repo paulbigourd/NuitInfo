@@ -53,5 +53,6 @@
       </div>
     </nav>
 
-<img src="./banniere.jpg" alt="banniere" />
+<img src="./banniere.jpg" alt="banniere">
+<style> img{width:auto;}</style>
 </html>
