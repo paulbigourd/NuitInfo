@@ -1,8 +1,10 @@
 <?php
     foreach ($tab as $element)
     {
-        echo $element['title'];
-        echo "<img src=\"$element[img]\" alt=\"image\" />";
-        echo $element['body'];
+        echo "<h1>";
+        echo $element['titre'];
+        echo"</h1>";
+        //echo "<img src=\"$element['url_image']\" alt=\"image\" />";
+        echo $element['contenu'];
     }
 ?>
