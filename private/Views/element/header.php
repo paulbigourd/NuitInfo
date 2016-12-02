@@ -54,6 +54,6 @@
       </div>
     </nav>
 <div id"mondiv">
-<img src="./private/Views/element/banniere.jpg" alt="banniere">
+<img src="./private/Views/element/banniere.png" alt="banniere">
 </div>
 </html>
