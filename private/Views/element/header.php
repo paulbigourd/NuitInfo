@@ -52,4 +52,4 @@
       </div>
     </nav>
 
-<img src="./bantest.png" alt="bantest" />
+<img src="./banniere.jpg" alt="banniere" />
