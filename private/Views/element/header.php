@@ -52,7 +52,7 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-
-<img src="./banniere.jpg" alt="banniere">
-<style> img{width:auto;}</style>
+<div id"mondiv">
+<img src="./private/Views/element/banniere.jpg" alt="banniere">
+</div>
 </html>
