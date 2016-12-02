@@ -1,4 +1,2 @@
-ErrorDocument 401 ./private/Views/erreurs/erreur_401/index.php
-ErrorDocument 403 ./private/Views/erreurs/erreur_403/index.php
 ErrorDocument 404 ./private/Views/erreurs/erreur_404/index.php
-ErrorDocument 500 ./private/Views/erreurs/erreur_500/index.php
+
