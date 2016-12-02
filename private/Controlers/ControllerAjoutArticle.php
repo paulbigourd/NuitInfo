@@ -1,5 +1,5 @@
 <?php
-	include('cdcc');
+	include('../Models/mod_ajoutArticle.php');
 	
 	if(isset($_POST['valider']))
 		{	
@@ -8,9 +8,9 @@
 			$_POST['img'] = htmlspecialchars($_POST['img']);
 			
             
-				setArticle($_POST['titre'],$_POST['contenue']);
+				ajoutArticle($_POST['titre'],$_POST['contenue']);
 			
 		}
 	
-	require('../Views/');
+	require('../Views/view_AjoutArticle.php');
 ?>
