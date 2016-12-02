@@ -1,0 +1,4 @@
+<?php
+$db=new PDO("mysql:host=localhost;port=3306;dbname=nuit_info","root","");
+function getTitres()
+$db->getTitres (PDO::ERRMODE_EXCEPTION);
