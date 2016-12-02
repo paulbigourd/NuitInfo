@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client :  127.0.0.1
--- Généré le :  Ven 02 Décembre 2016 à 00:31
+-- Généré le :  Ven 02 Décembre 2016 à 03:16
 -- Version du serveur :  5.6.15-log
 -- Version de PHP :  5.5.8
 
@@ -33,8 +33,7 @@ CREATE TABLE IF NOT EXISTS `benevoles` (
   `ASSOCIATION` varchar(50) NOT NULL,
   `MAIL` varchar(50) NOT NULL,
   `LOCALISATION` varchar(50) NOT NULL,
-  `is_admin` tinyint(1) DEFAULT NULL,
-  `is_mod` tinyint(1) DEFAULT NULL,
+  `rang` int(3) DEFAULT NULL,
   PRIMARY KEY (`ID`),
   UNIQUE KEY `PSEUDO` (`PSEUDO`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
