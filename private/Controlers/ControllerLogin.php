@@ -26,5 +26,5 @@ if(isset($_POST['valider']))
 	}
 }
 
-require('views/pages/login.php');
+require('Views/pages/login.php');
 ?>
