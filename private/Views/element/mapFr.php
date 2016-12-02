@@ -36,7 +36,7 @@
 		            + code
 					+ '"';
              
-		      document.location.href="contact.php?code=" + code;
+		      document.location.href="./private/Views/erreurs/erreur_404/index.html";
 		    }
 		});
 	});
