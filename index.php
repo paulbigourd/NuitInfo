@@ -6,7 +6,6 @@
         <?php include('private/Views/element/header.php'); ?>
         <main>
             <?php include('private\Views\element\body.php');?>
-			<?php include('private/Controlers/ControllerAccueil.php'); ?>
         </main>
     </body>
 </html>
